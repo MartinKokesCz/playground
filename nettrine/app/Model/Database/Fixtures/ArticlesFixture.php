@@ -1,6 +1,6 @@
 <?php declare(strict_types = 1);
 
-namespace App\Mode\Database\Fixtures;
+namespace App\Model\Database\Fixtures;
 
 use App\Model\Database\Advanced\Entity\Article;
 use App\Model\Database\Advanced\Entity\ArticleCategory;
